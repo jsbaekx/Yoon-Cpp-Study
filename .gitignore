@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+
+# VS Code 설정 폴더 (나만의 설정이라 공유 안 하는 게 좋음)
+.vscode/
+
+# Visual Studio (보라색 아이콘) 사용할 경우 생기는 파일들
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+Debug/
+Release/
+x64/
+x86/
